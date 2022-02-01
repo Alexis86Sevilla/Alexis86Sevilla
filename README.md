@@ -1,0 +1,1 @@
+¡Hola a todos! Me llamo Alexis y soy de Sevilla, soy estudiante de DAW (desarrollo de aplicaciones web) y sólo me quedan 3 asignaturas para terminar. En mi repositorio subo actividades que voy realizando en el curso, con el objetivo de poder mostrarlas a los demás y que se pueda apreciar mi trabajo.
