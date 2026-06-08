@@ -1,21 +1,35 @@
-# 👋 Hola, soy Alexis García Mancha
+# ¡Hola! Soy Alexis García Mancha 👋
 
-Desarrollador muy enfocado y en aprendizaje continuo con el **código limpio y mantenible**.  
-Mi campo de batalla actual es **Angular 19–20**, donde me esfuerzo por escribir código claro y eficiente.  
+Soy un desarrollador enfocado en algo que suena simple pero requiere disciplina: **escribir código que se lea bien, escalable y no se rompa mañana**. 
 
-Aunque tengo años de experiencia en **Java**, hoy lo uso lo justo. 
+Vengo del ecosistema **Java**, donde pasé unos cuantos años consolidando bases sólidas de programación. Sin embargo, mi terreno natural hoy en día es el **Frontend**. Mi día a día transcurre en **Angular (versiones 19/20+)**, diseñando arquitecturas modulares y aplicando principios de *Clean Code* para que el software crezca sin dolores de cabeza, también **Astro** para crear landings visuales apoyándome en **Tailwind**.
 
-## 🛠️ Tecnologías y habilidades
-- **Frontend:** Angular (19–20), TypeScript, JavaScript (ES6+), arquitectura modular, SCSS con metodología BEM, Tailwind 
-- **Backend (ocasional):** Java  
-- **Analítica & Datos:** Mixpanel, Power BI, Google Analytics, Google Tag Manager  
-- **Visualización:** Google Looker Studio → diseño de dashboards claros, intuitivos y con estilo  
+Además de picar código, tengo una fuerte inclinación hacia **los datos**. No me limito a pintar interfaces; me gusta entender qué pasa en ellas, medir el comportamiento de los usuarios y construir dashboards que cuenten historias claras y visualmente atractivas.
 
-## 📂 ¿Qué encontrarás aquí?
-Este GitHub es un espacio en construcción donde:  
-- Iré subiendo **proyectos personales poco a poco y sin prisa**, pero siempre con calidad y buena arquitectura.  
-- Habrá ejemplos de cómo aplico mi gusto por el **código limpio y las buenas prácticas**.  
-- También compartiré cosillas relacionadas con **analítica y visualización de datos**, desde la recolección hasta dashboards bien diseñados.  
+---
 
-## 🚀 Objetivo
-Seguir perfeccionando mi enfoque en **Angular y frontend moderno**, sin olvidar que los datos también cuentan una historia y deben presentarse con claridad.  
+### 🛠️ Mi Stack Tecnológico
+
+* 💻 **Frontend & Arquitectura:** Angular (19–20+), TypeScript, Astro, JavaScript (ES6+), Tailwind CSS, SCSS (con metodología BEM para mantener el orden).
+* 📊 **Analítica & Datos:** Mixpanel, Google Analytics, Google Tag Manager (GTM).
+* 📉 **Visualización:** Google Looker Studio (diseño de dashboards intuitivos y con estilo) y paneles claros en Mixpanel.
+* ☕ **Backend:** Java (mi base clásica, ideal para integraciones, refactorizaciones o cuando el proyecto lo requiera).
+
+---
+
+### 📂 ¿Qué vas a encontrar en mi GitHub?
+
+Soy partidario de la **calidad sobre la cantidad**. Este perfil es un espacio personal que crece a su propio ritmo; no busco acumular repositorios vacíos o tutoriales a medias.
+
+* ✨ **Proyectos con mimo:** Repositorios donde pongo a prueba buenas prácticas de desarrollo, patrones de diseño y arquitecturas frontend robustas.
+* 📈 **Frontend + Data:** Experimentos e integraciones reales donde el desarrollo web se cruza con la recolección, analítica y visualización de datos.
+
+---
+
+### 🧠 Filosofía de trabajo
+
+> *"Cualquiera puede escribir código que entienda una máquina. Un buen programador escribe código que entienden los humanos."* — Martin Fowler
+
+---
+
+📬 **¿Conectamos?** Si quieres hablar sobre Angular, analítica de datos o buenas prácticas, puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/alexis-gm/) o explorar mis repositorios.
